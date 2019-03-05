@@ -1,0 +1,40 @@
+/*
+* Programmer Name
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+    width: 77%;
+    margin: auto;
+    background-color: plum; /* this this the background color for the whole website */
+     
+}
+
+h1 {
+    background-color: thistle; /* Header 1 highlight color */
+    color: aliceblue;
+    font-family: cursive;
+    margin: auto;
+}
+
+p { 
+    color: midnightblue; /* this is the color for the text of the paragraph */
+}
+
+#readthis { 
+    color: darkred; 
+} 
+
+.important {
+    color: olivedrab;
+}
